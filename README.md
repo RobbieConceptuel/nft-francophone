@@ -6,6 +6,14 @@ Bienvenue dans le repository NFT Francophone ! Ici vous trouverez tout ce qu'il 
 
 ## Index
 
+- [Historique](#historique)
+- [Blockchains](#blockchains)
+- [NFT](#nft)
+- [Wallets](#wallets)
+- [Marketplaces](#marketplaces)
+- [Ressources](#ressources)
+  - [Applications](#applications)
+  - [Apprendre la blockchain](#apprendre-la-blockchain)
 - [Ethereum](#ethereum)
   - [Wallets](#wallets)
   - [Marketplaces](#marketplaces)
@@ -13,40 +21,61 @@ Bienvenue dans le repository NFT Francophone ! Ici vous trouverez tout ce qu'il 
 - [Tezos](#tezos)
 - [Solana](#solana)
 - [Cardano](#cardano)
-
-- [Outils](#outils)
+- [BSC](#bsc)
   
 - [Vidéos](#vidéos)
   - [Youtube](#youtube)
   - [Vimeo](#vimeo)
 
+## Historique
 
+### Un NFT c'est quoi?
+
+## Blockchains
+
+- Ethereum
+  - Polygon
+  - Avalanche
+- Solana
+- Tezos
+- Cardano
+- Bitcoin
+
+## NFT
+
+## Wallets
+
+- [Metamask (ETH)](https://metamask.io/)
+- [Temple Wallet (TEZ)](https://templewallet.com/)
+- [Phantom Wallet (SOL)](https://phantom.app/)
+- [Nami Wallet (ADA)](https://namiwallet.io/)
+
+## Marketplaces
+
+- [Opensea (ETH, Polygon)](https://opensea.io/)
+- [Rarible (ETH, TEZ)](https://rarible.com/)
+- [Artblocks (ETH)](https://artblocks.io/)
+- [Foundation (ETH)](https://foundation.app/)
+- [Objkt (TEZ)](https://objkt.com/)
+- [Kalamint (TEZ)](https://kalamint.io/)
+- [HicEtNunc (TEZ)](https://www.hicetnunc.art/)
+- [Solsea (SOL)](https://solsea.io/)
+- [Solanart (SOL)](https://solanart.io/)
+- [Knownorigin (ETH)](https://knownorigin.io/)
+
+## Ressources
+
+- [Bible du NFT](https://blog.opensea.io/guides/non-fungible-tokens/)
 
 ## Ethereum
 
 ### Wallets
-### Marketplaces
 
-Ouvertes :
-[Opensea (ETH, Polygon)](https://opensea.io/) 
 
-[Rarible (ETH)](https://rarible.com/)
-
-[AtomicHub (WAX)](https://wax.atomichub.io/)
-
-Avec sélection :
-
-[Foundation (ETH)](https://foundation.app/)
-
-[SuperRare (ETH)](https://superrare.com/)
-
-[NiftyGateway (ETH)](https://niftygateway.com/)
-
-[AsyncArt](https://async.art/)
 
 ## Tezos
 
-[HicEtNunc (TEZ)](https://www.hicetnunc.xyz/) 
+[HicEtNunc (TEZ)](https://www.hicetnunc.art/) 
 
 Wallet
 
@@ -57,17 +86,21 @@ Wallet
 ## Cardano
 
 
-## Outils
 
-Galleries virtuelles :
+## Applications
 
-[Cyber](https://cyber.xyz/)
+### Galleries virtuelles
 
-Réseau social :
+- [Cyber](https://cyber.xyz/)
+- [Rarerooms](https://www.rarerooms.io/)
+- [Somnium Space](https://somniumspace.com/)
+- [Shoyu](https://www.shoyunft.com/metaverse)
 
-[ShowTime](https://showtime.io/)
+### Réseau social
 
-Data : 
+- [ShowTime](https://showtime.io/)
+
+### Liens utiles
 
 [Rarity Tools](https://rarity.tools/)
 
@@ -82,6 +115,10 @@ Data :
 [HowRare (SOL)](https://howrare.is/)
 
 [Nansen](https://www.nansen.ai/)
+
+## Ressources pour apprendre
+
+- [CryptoZombies](https://cryptozombies.io/)
 
 
 
