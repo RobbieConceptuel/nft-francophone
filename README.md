@@ -13,25 +13,21 @@ Bienvenue dans le repository NFT Francophone ! Ici vous trouverez tout ce qu'il 
 - [Marketplaces](#marketplaces)
 - [Ressources](#ressources)
   - [Applications](#applications)
-  - [Apprendre la blockchain](#apprendre-la-blockchain)
-- [Ethereum](#ethereum)
-  - [Wallets](#wallets)
-  - [Marketplaces](#marketplaces)
+  - [Apprendre la blockchain](#ressources-pour-apprendre)
 
-- [Tezos](#tezos)
-- [Solana](#solana)
-- [Cardano](#cardano)
-- [BSC](#bsc)
+- [Ethereum](#ethereum), [Tezos](#tezos), [Solana](#solana), [Cardano](#cardano), [BSC](#bsc)
   
 - [Vidéos](#vidéos)
-  - [Youtube](#youtube)
-  - [Vimeo](#vimeo)
 
 ## Historique
 
-### Un NFT c'est quoi?
+### Qu'est-ce qu'un NFT?
+
+Un NFT est un Non Fungible Token.
 
 ## Blockchains
+
+Quand on arrive dans le monde des NFT, nous découvrons plusieurs blockchains supportant la technologie NFT. Voici une liste exhaustive des Blockchains les plus populaires.
 
 - Ethereum
   - Polygon
@@ -75,6 +71,8 @@ Voici une liste exhaustive de différentes ressources sur les NFT :
 
 ### Applications
 
+La technologie NFT permet différents cas d'usages. Voici une liste exhaustive d'applications.
+
 #### Galleries virtuelles
 
 - [Cyber](https://cyber.xyz/)
@@ -110,8 +108,6 @@ Voici une liste exhaustive de différentes ressources sur les NFT :
 
 ### Wallets
 
-
-
 ## Tezos
 
 [HicEtNunc (TEZ)](https://www.hicetnunc.art/) 
@@ -121,6 +117,10 @@ Voici une liste exhaustive de différentes ressources sur les NFT :
 ## Solana
 
 ## Cardano
+
+## BSC
+
+## Bitcoin
 
 
 *créé avec :sparkling_heart: par Robbie Conceptuel - 2022*
