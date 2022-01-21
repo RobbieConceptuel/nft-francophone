@@ -1,8 +1,8 @@
 # NFT Francophone
 
- <img src="https://github.com/RobbieConceptuel/NFT-Francophone/blob/main/NFT-Francophone.png" width="160">
-
 Bienvenue dans le repository NFT Francophone ! Ici vous trouverez tout ce qu'il vous faut pour en apprendre plus sur les NFT (Non Fungible Token).
+
+ <img src="https://github.com/RobbieConceptuel/NFT-Francophone/blob/main/NFT-Francophone.png" width="160">
 
 ## Index
 
@@ -41,16 +41,17 @@ Quand on arrive dans le monde des NFT, nous découvrons plusieurs blockchains su
 
 ## Wallets
 
-Voici une liste exhaustive de différents wallets permettant d'utiliser les NFT :
+Voici une liste de différents wallets permettant d'utiliser les NFT :
 
 - [Metamask (ETH)](https://metamask.io/)
 - [Temple Wallet (TEZ)](https://templewallet.com/)
 - [Phantom Wallet (SOL)](https://phantom.app/)
 - [Nami Wallet (ADA)](https://namiwallet.io/)
+- [Rainbow Wallet (ETH)](https://rainbow.me/)
 
 ## Marketplaces
 
-Voici une liste exhaustive de différentes Marketplaces permettant de créer, d'acheter, de vendre et de transférer les NFT :
+Voici une liste de différentes Marketplaces populaires permettant de créer, d'acheter, de vendre et de transférer les NFT :
 
 - [Opensea (ETH, Polygon)](https://opensea.io/)
 - [Rarible (ETH, TEZ)](https://rarible.com/)
@@ -60,6 +61,7 @@ Voici une liste exhaustive de différentes Marketplaces permettant de créer, d'
 - [Kalamint (TEZ)](https://kalamint.io/)
 - [HicEtNunc (TEZ)](https://www.hicetnunc.art/)
 - [Solsea (SOL)](https://solsea.io/)
+- [Magic Eden (SOL)](https://magiceden.io/)
 - [Solanart (SOL)](https://solanart.io/)
 - [Knownorigin (ETH)](https://knownorigin.io/)
 
@@ -82,37 +84,38 @@ La technologie NFT permet différents cas d'usages. Voici une liste exhaustive d
 
 #### Réseau social
 
-- [ShowTime](https://showtime.io/)
+- [Showtime](https://showtime.io/)
 
 #### Ressources pour apprendre
 
+- [Glossaire Ethereum](https://ethereum.org/fr/glossary/)
+- [ethereum.org](https://ethereum.org/fr/developers/)
+- [Solidity](https://soliditylang.org/)
 - [CryptoZombies](https://cryptozombies.io/)
 
 #### Liens utiles
 
-[Rarity Tools](https://rarity.tools/)
+Quelques liens utiles pour analyser les collections NFT sur la Blockchain.
 
-[Non Fungible](https://nonfungible.com/)
-
-[CryptoArt](https://cryptoart.io/)
-
-[CryptoSlam](https://cryptoslam.io/)
-
-[Masterpiece](https://masterpiece.so/)
-
-[HowRare (SOL)](https://howrare.is/)
-
-[Nansen](https://www.nansen.ai/)
+- [Rarity Tools](https://rarity.tools/)
+- [Non Fungible](https://nonfungible.com/)
+- [CryptoArt](https://cryptoart.io/)
+- [Masterpiece](https://masterpiece.so/)
+- [HowRare (SOL)](https://howrare.is/)
 
 ## Ethereum
 
 ### Wallets
 
+- [Metamask](https://metamask.io/)
+- [Rainbow Wallet](https://rainbow.me/)
+
+
 ## Tezos
 
-[HicEtNunc (TEZ)](https://www.hicetnunc.art/) 
+### Wallets
 
-[Temple Wallet](https://templewallet.com/)
+- [Temple Wallet](https://templewallet.com/)
 
 ## Solana
 
