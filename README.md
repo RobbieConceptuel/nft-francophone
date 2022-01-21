@@ -21,6 +21,17 @@ Bienvenue dans le repository NFT Francophone ! Ici vous trouverez tout ce qu'il 
 
 ## Historique
 
+Pour comprendre mieux la naissance des NFT, reprenons dès le début. ARTE a produit un documentaire sur la naissance du Bitcoin ce qui permet d'avoir une base historique sur l'histoire des cryptomonnaies.
+
+Documentaire ARTE | La création du Bitcoin :
+
+<a href="https://www.youtube.com/embed/0ETcLj5jBy4">
+  <img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/ARTE-la-creation-du-bitcoin.jpeg" width="300">
+</a>
+
+[**ARTE | La création du Bitcoin**](https://www.youtube.com/embed/0ETcLj5jBy4)
+
+
 ### Qu'est-ce qu'un NFT?
 
 Un NFT est un Non Fungible Token.
