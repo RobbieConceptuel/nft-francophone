@@ -125,5 +125,12 @@ Quelques liens utiles pour analyser les collections NFT sur la Blockchain.
 
 ## Bitcoin
 
+## Contributeurs
+
+*N'oubliez pas de vous ajouter en contributeur ici quand vous faîtes un Pull Request*
+
+- [*New Contributor 2*](put your link here)
+- [*New Contributor*](put your link here)
+- [Robbie Conceptuel](https://instagram.com/conceptuel)
 
 *créé avec :sparkling_heart: par Robbie Conceptuel - 2022*
