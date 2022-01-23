@@ -116,6 +116,10 @@ Quelques liens utiles pour analyser les collections NFT sur la Blockchain.
 
 ## Ethereum
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Ethereum_logo_translucent.svg" width="60" alt="Logo de Ethereum">
+
+- année de création : 2015
+
 ### Wallets
 
 - [Metamask](https://metamask.io/)
@@ -124,24 +128,52 @@ Quelques liens utiles pour analyser les collections NFT sur la Blockchain.
 
 ## Tezos
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Tezos_logo.svg" width="60" alt="Logo de Tezos">
+
+- année de création : 2018
+
 ### Wallets
 
 - [Temple Wallet](https://templewallet.com/)
 
 ## Solana
 
+<img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png" width="80" alt="Logo de Solana">
+
+- année de création : 2019
+
+### Wallets
+
+- [Phantom Wallet](https://phantom.app/)
+
 ## Cardano
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cardano.svg" width="220" alt="Logo de Cardano">
+
+- année de création : 2017
+
+### Wallets
+
+- [Nami Wallet](https://namiwallet.io/)
 
 ## BSC
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Binance_Logo.svg" width="60" alt="Logo de Binance Smart Chain">
+
+- année de création : 2018
+
 ## Bitcoin
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Bitcoin_logo.svg" width="180" alt="Logo de Bitcoin">
+
+- année de création : 2009
 
 ## Contributeurs
 
 *N'oubliez pas de vous ajouter en contributeur ici quand vous faîtes un Pull Request*
 
-- [*New Contributor 2*](put your link here)
-- [*New Contributor*](put your link here)
+- [*Nouveau Contributeur *](mettez votre lien ici)
+- [*Nouveau Contributeur *](mettez votre lien ici)
 - [Robbie Conceptuel](https://instagram.com/conceptuel)
 
 *créé avec :sparkling_heart: par Robbie Conceptuel - 2022*
