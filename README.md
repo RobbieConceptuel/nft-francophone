@@ -19,7 +19,7 @@ Bienvenue dans le repository NFT Francophone ! Ici vous trouverez tout ce qu'il 
   
 - [Vidéos](#vidéos)
 
-## Historique
+# Historique
 
 Pour comprendre mieux la naissance des NFT, reprenons dès le début. ARTE a produit un documentaire sur la naissance du Bitcoin ce qui permet d'avoir une base historique sur l'histoire des cryptomonnaies.
 
@@ -32,11 +32,11 @@ Documentaire ARTE | La création du Bitcoin :
 [**ARTE | La création du Bitcoin**](https://www.youtube.com/embed/0ETcLj5jBy4)
 
 
-### Qu'est-ce qu'un NFT?
+## Qu'est-ce qu'un NFT?
 
 Un NFT est un Non Fungible Token.
 
-## Blockchains
+# Blockchains
 
 Quand on arrive dans le monde des NFT, nous découvrons plusieurs blockchains supportant la technologie NFT. Voici une liste exhaustive des Blockchains les plus populaires.
 
@@ -50,7 +50,7 @@ Quand on arrive dans le monde des NFT, nous découvrons plusieurs blockchains su
 
 ## NFT
 
-## Wallets
+# Wallets
 
 Voici une liste de différents wallets permettant d'utiliser les NFT :
 
@@ -60,7 +60,7 @@ Voici une liste de différents wallets permettant d'utiliser les NFT :
 - [Nami Wallet (ADA)](https://namiwallet.io/)
 - [Rainbow Wallet (ETH)](https://rainbow.me/)
 
-## Marketplaces
+# Marketplaces
 
 Voici une liste de différentes Marketplaces populaires permettant de créer, d'acheter, de vendre et de transférer les NFT :
 
@@ -77,24 +77,30 @@ Voici une liste de différentes Marketplaces populaires permettant de créer, d'
 - [Knownorigin (ETH)](https://knownorigin.io/)
 - [Exchange.art (SOL)](https://exchange.art/)
 
-## Ressources
+# Ressources
 
 Voici une liste exhaustive de différentes ressources sur les NFT :
 
 - [Bible du NFT](https://blog.opensea.io/guides/non-fungible-tokens/)
 
-### Applications
+## Applications
 
 La technologie NFT permet différents cas d'usages. Voici une liste exhaustive d'applications.
 
-#### Galleries virtuelles
+## Mondes virtuels
+
+- [Decentraland](https://decentraland.org/)
+- [Sandbox](https://www.sandbox.game/en/)
+- [Cryptovoxels](https://cryptovoxels.com)
+
+## Galleries virtuelles
 
 - [Cyber](https://cyber.xyz/)
 - [Rarerooms](https://www.rarerooms.io/)
 - [Somnium Space](https://somniumspace.com/)
 - [Shoyu](https://www.shoyunft.com/metaverse)
 
-##### Tutoriel Faire sa gallerie NFT
+### Tutoriel Faire sa gallerie NFT
 
 Bienvenue dans ce nouveau tutoriel pour créer sa gallerie virtuelle pour exposer ses NFT. Dans ce tutoriel, nous allons créer une gallerie sur [Cyber.xyz](https://cyber.xyz/). Cyber est un projet qui soutient différentes blockchains tel que Ethereum, Polygon, Tezos et Solana.
 
@@ -125,18 +131,18 @@ Commençons par :
 
 Lien : [Cyber.xyz](https://cyber.xyz/)
 
-#### Réseau social
+### Réseau social
 
 - [Showtime](https://showtime.io/)
 
-#### Ressources pour apprendre
+## Ressources pour apprendre
 
 - [Glossaire Ethereum](https://ethereum.org/fr/glossary/)
 - [ethereum.org](https://ethereum.org/fr/developers/)
 - [Solidity](https://soliditylang.org/)
 - [CryptoZombies](https://cryptozombies.io/)
 
-#### Liens utiles
+### Liens utiles
 
 Quelques liens utiles pour analyser les collections NFT sur la Blockchain.
 
@@ -146,7 +152,7 @@ Quelques liens utiles pour analyser les collections NFT sur la Blockchain.
 - [Masterpiece](https://masterpiece.so/)
 - [HowRare (SOL)](https://howrare.is/)
 
-## Ethereum
+# Ethereum
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Ethereum_logo_translucent.svg" width="60" alt="Logo de Ethereum">
 
@@ -158,47 +164,89 @@ Quelques liens utiles pour analyser les collections NFT sur la Blockchain.
 - [Rainbow Wallet](https://rainbow.me/)
 
 
-## Tezos
+# Tezos
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Tezos_logo.svg" width="60" alt="Logo de Tezos">
 
 - année de création : 2018
 
-### Wallets
+## Wallets
 
 - [Temple Wallet](https://templewallet.com/)
 
-## Solana
+# Solana
 
 <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png" width="80" alt="Logo de Solana">
 
 - année de création : 2019
 
-### Wallets
+## Wallets
 
 - [Phantom Wallet](https://phantom.app/)
 
-## Cardano
+# Cardano
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cardano.svg" width="220" alt="Logo de Cardano">
 
 - année de création : 2017
 
-### Wallets
+## Wallets
 
 - [Nami Wallet](https://namiwallet.io/)
 
-## BSC
+# BSC
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Binance_Logo.svg" width="60" alt="Logo de Binance Smart Chain">
 
 - année de création : 2018
 
-## Bitcoin
+# Bitcoin
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Bitcoin_logo.svg" width="180" alt="Logo de Bitcoin">
 
 - année de création : 2009
+
+## Les NFT sur Bitcoin
+
+Bien qu'étant la première cryptomonnaie, les NFT sur Bitcoin ne sont pas les plus répandus. Nous pouvons voir les NFT publiés sur [Xchain](https://xchain.io/) .
+
+### Rare Pepe
+
+Commencé en 2016, le projet Rare Pepe est devenu un incontournable dans le monde du NFT.
+
+Voir tous les Rare Pepe : [Rare Pepe Directory](http://rarepepedirectory.com/)
+
+**RAREPEPE**
+
+*13 Septembre, 2016*
+
+<img src="http://rarepepedirectory.com/wp-content/uploads/2016/09/CreatorFinal.jpg" width="180" alt="Logo de Bitcoin">
+
+*The first rare pepe ever attached to the Bitcoin blockchain.  The rare pepe that started it all.*
+
+[Voir sur Xchain](https://xchain.io/asset/RAREPEPE)
+
+Le 10 Septembre 2021 une unité de ce RAREPEPE a été vendu à Sotheby's pour 239'400$ .
+
+[Lot sur Sotheby's](https://metaverse.sothebys.com/natively-digital/lots/rarepepe-nakamoto-card)
+
+**PEPENOPOULOS**
+
+*4 Octobre, 2016*
+
+<img src="http://rarepepedirectory.com/wp-content/uploads/2016/10/PEPENOPOULOS.jpg" width="180" alt="Logo de Bitcoin">
+
+*Andreas M. Pepenopoulos*
+
+[Voir sur Xchain](https://xchain.io/asset/PEPENOPOULOS)
+
+Le 26 Octobre 2021 une unité de ce RAREPEPE a été vendu à Sotheby's pour 3'650'000$ .
+
+[Lot sur Sotheby's](https://metaverse.sothebys.com/natively-digital/lots/pepenopoulos)
+
+En savoir plus:
+
+[Rare Pepe - Wikipedia](https://en.wikipedia.org/wiki/Rare_Pepe)
 
 ## Contributeurs
 
