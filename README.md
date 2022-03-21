@@ -75,6 +75,7 @@ Voici une liste de différentes Marketplaces populaires permettant de créer, d'
 - [Magic Eden (SOL)](https://magiceden.io/)
 - [Solanart (SOL)](https://solanart.io/)
 - [Knownorigin (ETH)](https://knownorigin.io/)
+- [Exchange.art (SOL)](https://exchange.art/)
 
 ## Ressources
 
@@ -95,15 +96,34 @@ La technologie NFT permet différents cas d'usages. Voici une liste exhaustive d
 
 ##### Tutoriel Faire sa gallerie NFT
 
-<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Cyber_3D_1.jpeg" width="300">
+Bienvenue dans ce nouveau tutoriel pour créer sa gallerie virtuelle pour exposer ses NFT. Dans ce tutoriel, nous allons créer une gallerie sur [Cyber.xyz](https://cyber.xyz/). Cyber est un projet qui soutient différentes blockchains tel que Ethereum, Polygon, Tezos et Solana.
 
-<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Cyber_3D_2.jpeg" width="300">
+Commençons par :
 
-<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Cyber_3D_3.jpeg" width="300">
+- Ouvrir [Cyber.xyz](https://cyber.xyz/)
+- Cliquez sur 'Login'
 
-<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Cyber_3D_4.jpeg" width="300">
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Cyber_3D_1.jpeg" width="100%">
 
-<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Cyber_3D_5.jpeg" width="300">
+- Choisissez le Wallet que vous voulez connecter
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Cyber_3D_2.jpeg" width="70%">
+
+- Signez la demande de signature dans votre wallet
+- Choisissez parmis les espaces gratuits pour commencer avec une gallerie
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Cyber_3D_3.jpeg" width="70%">
+
+- Cliquez sur un des carrés au mur sur 'Add asset' (le carré sélectionné devient vert
+- Vous pouvez maintenant modifier l'URL ainsi que le nom de votre gallerie. Cliquez sur le crayon pour faire apparaître la fenêtre à gauche)
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Cyber_3D_4.jpeg" width="70%">
+
+- Vous pouvez maintenant choisir vos NFT et les disposer dans votre nouvelle gallerie virtuelle.
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Cyber_3D_5.jpeg" width="70%">
+
+Lien : [Cyber.xyz](https://cyber.xyz/)
 
 #### Réseau social
 
