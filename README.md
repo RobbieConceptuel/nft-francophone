@@ -158,11 +158,44 @@ Quelques liens utiles pour analyser les collections NFT sur la Blockchain.
 
 - année de création : 2015
 
-### Wallets
+## Wallets
 
 - [Metamask](https://metamask.io/)
 - [Rainbow Wallet](https://rainbow.me/)
 
+## Crypto Punks
+
+**Crypto Punk #5822**
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/CryptoPunk_5822.png" width="280" alt="Logo de Ethereum">
+
+Le 12 Février 2022 le #5822 a été vendu à pour 8'000 ETH .
+
+## Crypto Kitties
+
+**Genesis**
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/CryptoKitties_Genesis.png" width="280" alt="Logo de Ethereum">
+
+Le tout premier Crypto Kitties.
+
+**Dragon**
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/CryptoKitties_Dragon.png" width="280" alt="Logo de Ethereum">
+
+Le 4 Septembre 2018 , Dragon a été vendu à pour 600 ETH .
+
+## Bored Ape Yacht Club
+
+<img src="https://ik.imagekit.io/bayc/assets/bayc-footer.png" width="160" alt="Logo de Ethereum">
+
+Le 23 Avril 2021 le projet Bored Ape Yacht Club est sorti au prix de 0.08 ETH.
+
+**BAYC #2087**
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/BAYC_2087.png" width="280" alt="Logo de Ethereum">
+
+Le 30 Septembre 2021 le #2087 a été vendu à pour 769 ETH .
 
 # Tezos
 
@@ -202,7 +235,7 @@ Quelques liens utiles pour analyser les collections NFT sur la Blockchain.
 
 # Bitcoin
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Bitcoin_logo.svg" width="180" alt="Logo de Bitcoin">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Bitcoin_logo.svg" width="220" alt="Logo de Bitcoin">
 
 - année de création : 2009
 
@@ -220,7 +253,7 @@ Voir tous les Rare Pepe : [Rare Pepe Directory](http://rarepepedirectory.com/)
 
 *13 Septembre, 2016*
 
-<img src="http://rarepepedirectory.com/wp-content/uploads/2016/09/CreatorFinal.jpg" width="180" alt="Logo de Bitcoin">
+<img src="http://rarepepedirectory.com/wp-content/uploads/2016/09/CreatorFinal.jpg" width="220" alt="Logo de Bitcoin">
 
 *The first rare pepe ever attached to the Bitcoin blockchain.  The rare pepe that started it all.*
 
@@ -234,7 +267,7 @@ Le 10 Septembre 2021 une unité de ce RAREPEPE a été vendu à Sotheby's pour 2
 
 *4 Octobre, 2016*
 
-<img src="http://rarepepedirectory.com/wp-content/uploads/2016/10/PEPENOPOULOS.jpg" width="180" alt="Logo de Bitcoin">
+<img src="http://rarepepedirectory.com/wp-content/uploads/2016/10/PEPENOPOULOS.jpg" width="220" alt="Logo de Bitcoin">
 
 *Andreas M. Pepenopoulos*
 
