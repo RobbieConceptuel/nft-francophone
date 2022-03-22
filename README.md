@@ -76,6 +76,7 @@ Voici une liste de différentes Marketplaces populaires permettant de créer, d'
 - [Solanart (SOL)](https://solanart.io/)
 - [Knownorigin (ETH)](https://knownorigin.io/)
 - [Exchange.art (SOL)](https://exchange.art/)
+- [Super Rare (ETH)](https://superrare.com/)
 
 # Ressources
 
@@ -202,6 +203,10 @@ Le 30 Septembre 2021 le #2087 a été vendu à pour 769 ETH .
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Tezos_logo.svg" width="60" alt="Logo de Tezos">
 
 - année de création : 2018
+
+**Window Still Life 001 by john karel**
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Window_Still_Life_001_John_Karel.gif" width="280" alt="Logo de Tezos">
 
 ## Wallets
 
