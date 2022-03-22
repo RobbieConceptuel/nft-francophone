@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="288px" height="288px" viewBox="0 0 288 288" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>288</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="85.35535%" y1="14.644675%" x2="14.644675%" y2="85.35535%" id="linearGradient-1">
+            <stop stop-color="#FF2D55" offset="0%"></stop>
+            <stop stop-color="#FFBC5B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9664%" y1="6.66666667e-05%" x2="49.9664%" y2="100.000067%" id="linearGradient-2">
+            <stop stop-color="#A524B3" offset="0%"></stop>
+            <stop stop-color="#FF2D55" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9664%" y1="6.66666667e-05%" x2="49.9664%" y2="100.000067%" id="linearGradient-3">
+            <stop stop-color="#A524B3" offset="0%"></stop>
+            <stop stop-color="#FF2D55" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="ui-kit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo" transform="translate(-128.000000, -128.000000)">
+            <g id="color" transform="translate(128.000000, 128.000000)">
+                <g id="288">
+                    <circle id="world" fill="url(#linearGradient-1)" cx="144" cy="144" r="144"></circle>
+                    <g id="big-pyramid" transform="translate(11.520000, 93.600000)">
+                        <polygon id="shadow" fill="url(#linearGradient-2)" points="90.504 0 90.504 108 180.504 108"></polygon>
+                        <polygon id="light" fill="#FFFFFF" points="0.504 108 90.504 108 90.504 0"></polygon>
+                    </g>
+                    <path d="M57.6,259.2 C81.648,277.272 111.6,288 144,288 C176.4,288 206.352,277.272 230.4,259.2 L57.6,259.2 Z" id="end" fill="#FF2D55"></path>
+                    <path d="M28.8,230.4 C37.008,241.272 46.728,250.992 57.6,259.2 L230.4,259.2 C241.272,250.992 250.992,241.272 259.2,230.4 L28.8,230.4 Z" id="horizon" fill="#FC9965"></path>
+                    <path d="M193.176,201.6 L12.024,201.6 C16.488,211.896 22.176,221.544 28.8,230.4 L193.248,230.4 L193.248,201.6 L193.176,201.6 Z" id="ground" fill="#FFBC5B"></path>
+                    <g id="small-pyramid" transform="translate(126.720000, 151.200000)">
+                        <polygon id="shadow" fill="url(#linearGradient-3)" points="66.456 0 66.456 79.2 132.48 79.2"></polygon>
+                        <polygon id="light" fill="#FFFFFF" points="0.504 79.2 66.456 79.2 66.456 0"></polygon>
+                    </g>
+                    <circle id="big-moon" fill="#FFC95B" cx="193.176" cy="93.6" r="36"></circle>
+                    <circle id="small-moon" fill="#FFC95B" cx="102.024" cy="54" r="18"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
