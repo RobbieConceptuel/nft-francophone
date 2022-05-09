@@ -159,12 +159,29 @@ Quelques liens utiles pour analyser les collections NFT sur la Blockchain.
 
 - année de création : 2015
 
+Ethereum est une technologie qui vous permet d'envoyer de la cryptomonnaie à n'importe qui moyennant de petits frais. Elle permet également de gérer des applications permanentes et utilisables par tous.
+
+C'est la blockchain programmable du monde entier.
+
+Ethereum s'appuie sur l'innovation du Bitcoin, avec quelques différences majeures.
+
+Tous deux vous permettent d'utiliser de l'argent virtuel sans banque ni prestataire de paiement. En revanche, Ethereum est programmable, donc vous pouvez également l'utiliser pour de nombreux actifs numériques différents – même du Bitcoin !
+
+Cela signifie également qu'Ethereum permet plus que des paiements. Il s'agit d'un marché de services financiers, de jeux et d'applications qui ne peuvent pas vous pister ou vous censurer.
+
+
 ## Wallets
+
+Les portefeuilles donnent accès à vos fonds et applications Ethereum. Seul vous devriez avoir accès à votre portefeuille.
 
 - [Metamask](https://metamask.io/)
 - [Rainbow Wallet](https://rainbow.me/)
 
 ## Crypto Punks
+
+Sorti le 23 Juin 2017 par le studio Larva Labs; les Cryptopunks sont 10'000 personnages uniques et collectionables avec une preuve de propriété stockée sur la blockchain Ethereum. Tout les Cryptopunks sont différents.
+
+Les Cryptopunks sont un des exemples les plus précurseurs d'un "Non-Fungible Token" (Token Non Fongible) sur Ethereum.
 
 **Crypto Punk #5822**
 
@@ -173,6 +190,8 @@ Quelques liens utiles pour analyser les collections NFT sur la Blockchain.
 Le 12 Février 2022 le #5822 a été vendu à pour 8'000 ETH .
 
 ## Crypto Kitties
+
+Les CryptoKitties sont un jeu sur la blockchain Ethereum développé par le studio canadien Dapper Labs.
 
 **Genesis**
 
@@ -188,7 +207,7 @@ Le 4 Septembre 2018 , Dragon a été vendu à pour 600 ETH .
 
 ## Beeple
 
-Beeple est Mike Winkelmann.
+Michael Joseph Winkelmann plus connu sous le nom de Beeple, est un artiste digital américain. Winkelmann a commencé la série des "Everydays" le 1 Mai 2007. Ce projet est encore en cours et consiste à créer une oeuvre tout les jours, le projet contient déjà plus de 5000 oeuvres.
 
 ### EVERYDAYS: THE FIRST 5000 DAYS
 
@@ -307,6 +326,11 @@ Le 26 Octobre 2021 une unité de ce RAREPEPE a été vendu à Sotheby's pour 3'6
 En savoir plus:
 
 [Rare Pepe - Wikipedia](https://en.wikipedia.org/wiki/Rare_Pepe)
+
+## Sources
+
+- [Ethereum.org](https://ethereum.org/fr/what-is-ethereum/)
+- [Crypto Punks](https://www.larvalabs.com/cryptopunks)
 
 ## Contributeurs
 
