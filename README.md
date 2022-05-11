@@ -264,7 +264,16 @@ Lancé le 30 Juin 2018 par Arthur Breitman et Kathleen Breitman, Tezos se veut �
 
 <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png" width="80" alt="Logo de Solana">
 
-- année de création : 2019
+- année de création : 2017
+
+En Novembre 2017, Anatoly Yakovenko publie un whitepaper décrivant la Proof of History, une méthode pour sauver du temps entre les transactions.
+Premièrement implémenté en C par Anatoly, il se fait rejoindre par Greg Fitzgerald qui avait déjà travaillé sur les semi conducteurs avec Anatoly chez Qualcomm. Greg insiste pour que le code soit migré en Rust. 
+
+Le 13 février 2018, Greg commence à prototyper la première implementation Open Source du whitepaper de Anatoly. Le projet est publié sur Github sous le nom de 'Silk' dans le loomprotocol organization. Le 28 février 2018 Greg se fait rejoindre par Stephen Akridge après une démo technique sur la capacité de son projet. Anatoly recrute Greg et Stephen et font une entreprise qu'ils apelleront Loom.
+
+Durant la même période, le projet basé sur Ethereum nommé Loom Network arrive et l'équipe d'Anatoly ont choisi de renommer le projet en 'Solana' , en réference à une plage proche de San Diego qui s'apelle 'Solana Beach' . Ils avaient l'habitude d'y aller surfer durant les trois ans qu'ils ont travaillé ensemble chez Qualcomm. Le 28 Mars ils créent le Solana Github organization et ont renommé le projet 'Silk' en Solana.
+
+En Juin 2018, la team de Solana ont scale sur des serveurs Cloud et le 19 Juillet 2018 publient leur système permettant d'effectuer 250'000 transactions par seconde. Le projet continue d'évoluer et permet de faire beaucoup plus de transactions.
 
 ## Wallets
 
@@ -338,6 +347,7 @@ En savoir plus:
 
 - [Ethereum.org](https://ethereum.org/fr/what-is-ethereum/)
 - [Crypto Punks](https://www.larvalabs.com/cryptopunks)
+- [Solana Docs](https://docs.solana.com/history)
 
 ## Contributeurs
 
