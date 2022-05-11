@@ -245,9 +245,16 @@ Le 17 Mars 2022 est sorti le [ApeCoin](https://apecoin.com) .
 
 - année de création : 2018
 
+Lancé le 30 Juin 2018 par Arthur Breitman et Kathleen Breitman, Tezos se veut être une blockchain open source se concentrant sur les applications et le Web3 avec plus de gouvernances. Tezos est une blockchain importante dans le marché du NFT. Vous pouvez retrouvez différentes plateformes comme:
+
+- [Rarible (TEZ)](https://rarible.com/)
+- [Objkt (TEZ)](https://objkt.com/)
+- [Kalamint (TEZ)](https://kalamint.io/)
+- [HicEtNunc (TEZ)](https://www.hicetnunc.art/)
+
 **Window Still Life 001 by john karel**
 
-<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Window_Still_Life_001_John_Karel.gif" width="280" alt="Logo de Tezos">
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Window_Still_Life_001_John_Karel.gif" width="280" alt="NFT de John Karel">
 
 ## Wallets
 
