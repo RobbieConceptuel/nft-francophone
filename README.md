@@ -281,11 +281,25 @@ En Juin 2018, la team de Solana ont scale sur des serveurs Cloud et le 19 Juille
 
 # Polygon
 
+<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/Polygon_blockchain_logo.svg/2560px-Polygon_blockchain_logo.svg.png" width="220" alt="Logo de Polygon">
+
 - année de création : 2017
 
 # Avalanche
 
+<img src="https://docs.avax.network/img/Avalanche_Horizontal_Red.svg" width="220" alt="Logo de Avalanche">
+
+
 - année de création : 2020
+
+Avalanche a commencé par un projet publié sur IPFS par un groupe sous le pseudonyme de 'Team Rocket' . Il a été repris par un groupe de recherches à l'université de Cornell sous la direction de Emin Gün Sirer, assisté par deux étudiants Maofan Ted Yin et Kevin Sekniqi . En Mard 2020, le Ava codebase (Developer Accelerator Program) pour le consensus du protocole Avalanche et devient open-source et accessible au public.
+
+En Septembre 2020 le token Avax sort (un acronyme de Avalanche).
+
+Il y a différentes marketplaces proposant de NFT sous Avalanche comme :
+
+- [NFTrade](https://nftrade.com)
+- [Tofu NFT](https://tofunft.com)
 
 # Cardano
 
