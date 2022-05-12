@@ -285,6 +285,10 @@ En Juin 2018, la team de Solana ont scale sur des serveurs Cloud et le 19 Juille
 
 - année de création : 2017
 
+Le développement de Cardano a commencé en 2015 puis est sorti en 2017 par Charles Hoskinson, co-fondateur de Ethereum. Hoskinson est parti du projet Ethereum car il voulait intégrer de l'investissement capital-risque et un projet à but spéculatif. Il choisit de développer Cardano suite à son départ, Cardano fait référence à Gerolamo Cardano un mathématicien italien. Les NFT sur Cardano peuvent être acheté sur des plateformes comme :
+
+- [CNFT.io](https://cnft.io)
+
 ## Wallets
 
 - [Nami Wallet](https://namiwallet.io/)
@@ -293,7 +297,12 @@ En Juin 2018, la team de Solana ont scale sur des serveurs Cloud et le 19 Juille
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Binance_Logo.svg" width="60" alt="Logo de Binance Smart Chain">
 
-- année de création : 2018
+- année de création : 2020
+
+Développée par Binance, la Binance Smart Chain est sorti le 1er Septembre 2020. Binance veut permettre de développer des applications décentralisées plus rapides, avec moins de latence et avec plus de capacité, pour y répondre ils créent la Binance Smart Chain et l'incluent dans leur écosystème. Nous pouvons acheter des NFT sur différentes Marketplaces comme : 
+
+- [Binance](https://binance.com)
+- [Air NFTs](https://airnfts.com)
 
 # Bitcoin
 
