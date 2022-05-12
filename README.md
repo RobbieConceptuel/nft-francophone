@@ -15,7 +15,7 @@ Bienvenue dans le repository NFT Francophone ! Ici vous trouverez tout ce qu'il 
   - [Applications](#applications)
   - [Apprendre la blockchain](#ressources-pour-apprendre)
 
-- [Ethereum](#ethereum), [Tezos](#tezos), [Solana](#solana), [Cardano](#cardano), [BSC](#bsc) , [Polygon](#polygon) , [Avalanche](#avalanche)
+- [Ethereum](#ethereum), [Tezos](#tezos), [Solana](#solana), [Cardano](#cardano), [BSC](#bsc) , [Polygon](#polygon) , [Avalanche](#avalanche) , [Fantom](#fantom) [Bitcoin](#bitcoin)
   
 - [Vidéos](#vidéos)
 
@@ -333,6 +333,17 @@ Développée par Binance, la Binance Smart Chain est sorti le 1er Septembre 2020
 
 - [Binance](https://binance.com)
 - [Air NFTs](https://airnfts.com)
+
+# Fantom
+
+<img src="https://cryptologos.cc/logos/fantom-ftm-logo.svg?v=022" width="60" alt="Logo de Fantom">
+
+- année de création : 2018
+
+Créée par Dr. Ahn Byung Ik, la blockchain Fantom veut scale plus de transactions en proposant la Proof-of-Work et la Proof-of-Stake ensemble avec un méchanisme de validation pour réduire la consommation d'énergies. Fantom veut être une alternative à Ethereum en proposant des solutions à Ethereum. En 2021, Fantom intègre les protocoles permettant de créer des NFT comme :
+
+- [artion](https://artion.io)
+- [element market](https://element.market)
 
 # Bitcoin
 
