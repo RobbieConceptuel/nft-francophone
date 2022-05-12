@@ -15,7 +15,7 @@ Bienvenue dans le repository NFT Francophone ! Ici vous trouverez tout ce qu'il 
   - [Applications](#applications)
   - [Apprendre la blockchain](#ressources-pour-apprendre)
 
-- [Ethereum](#ethereum), [Tezos](#tezos), [Solana](#solana), [Cardano](#cardano), [BSC](#bsc)
+- [Ethereum](#ethereum), [Tezos](#tezos), [Solana](#solana), [Cardano](#cardano), [BSC](#bsc) , [Polygon](#polygon) , [Avalanche](#avalanche)
   
 - [Vidéos](#vidéos)
 
@@ -278,6 +278,14 @@ En Juin 2018, la team de Solana ont scale sur des serveurs Cloud et le 19 Juille
 ## Wallets
 
 - [Phantom Wallet](https://phantom.app/)
+
+# Polygon
+
+- année de création : 2017
+
+# Avalanche
+
+- année de création : 2020
 
 # Cardano
 
