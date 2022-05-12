@@ -285,6 +285,14 @@ En Juin 2018, la team de Solana ont scale sur des serveurs Cloud et le 19 Juille
 
 - année de création : 2017
 
+Polygon est une blockchain indienne développée par Jaynti Kanani, Sandeep Nailwal, Anurag Arjun et Mihailo Bjelic à Bombay. Le projet naît d'un désir de répondre aux difficultées de l'Ethereum et reduit intégralement les frais de transactions. Polygon s'est rapidement imposé comme une alternative à Ethereum pour publier des NFT. Opensea a intégré Polygon depuis 2021 ce qui a ouvert de nouvelles portes d'entrées dans le monde des NFTs. Elle permet de swap des tokens sans frais. C'est pour cette raison que plusieurs plateformes intègrent Polygon comme :
+
+- [Opensea](https://opensea.io)
+- [Oncyber](https://cyber.xyz)
+- [Decentraland](https://decentraland.org)
+- [Sandbox](https://sandbox.game)
+- [element market](https://element.market)
+
 # Avalanche
 
 <img src="https://docs.avax.network/img/Avalanche_Horizontal_Red.svg" width="220" alt="Logo de Avalanche">
@@ -292,7 +300,7 @@ En Juin 2018, la team de Solana ont scale sur des serveurs Cloud et le 19 Juille
 
 - année de création : 2020
 
-Avalanche a commencé par un projet publié sur IPFS par un groupe sous le pseudonyme de 'Team Rocket' . Il a été repris par un groupe de recherches à l'université de Cornell sous la direction de Emin Gün Sirer, assisté par deux étudiants Maofan Ted Yin et Kevin Sekniqi . En Mard 2020, le Ava codebase (Developer Accelerator Program) pour le consensus du protocole Avalanche et devient open-source et accessible au public.
+Avalanche a commencé par un projet publié sur IPFS par un groupe sous le pseudonyme de 'Team Rocket' . Il a été repris par un groupe de recherches à l'université de Cornell sous la direction de Emin Gün Sirer, assisté par deux étudiants Maofan Ted Yin et Kevin Sekniqi . En Mars 2020, le Ava codebase (Developer Accelerator Program) pour le consensus du protocole Avalanche et devient open-source et accessible au public.
 
 En Septembre 2020 le token Avax sort (un acronyme de Avalanche).
 
