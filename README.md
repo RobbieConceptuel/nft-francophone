@@ -15,7 +15,7 @@ Bienvenue dans le repository NFT Francophone ! Ici vous trouverez tout ce qu'il 
   - [Applications](#applications)
   - [Apprendre la blockchain](#ressources-pour-apprendre)
 
-- [Ethereum](#ethereum), [Tezos](#tezos), [Solana](#solana), [Cardano](#cardano), [BSC](#bsc) , [Polygon](#polygon) , [Avalanche](#avalanche) , [Fantom](#fantom), [Bitcoin](#bitcoin)
+- [Ethereum](#ethereum), [Tezos](#tezos) , [Solana](#solana) , [Cardano](#cardano) , [BSC](#bsc) , [Polygon](#polygon) , [Avalanche](#avalanche) , [Fantom](#fantom) , [Bitcoin](#bitcoin)
   
 - [Vidéos](#vidéos)
 
@@ -81,7 +81,7 @@ Voici une liste de différentes Marketplaces populaires permettant de créer, d'
 - [Super Rare (ETH)](https://superrare.com/)
 - [element market (ETH, Polygon, AVAX)](https://element.market)
 - [NFTrade (AVAX, Polygon, ETH](https://nftrade.com)
-- [Tofu NFT (ETH, AVAX, Polygon, Fantom](https://tofunft.com)
+- [Tofu NFT (ETH, AVAX, Polygon, Fantom)](https://tofunft.com)
 - [CNFT.io (ADA)](https://cnft.io)
 - [jpg.store (ADA)](https://www.jpg.store/)
 - [Binance (BSC)](https://binance.com)
