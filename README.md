@@ -94,9 +94,10 @@ La technologie NFT permet différents cas d'usages. Voici une liste exhaustive d
 - [Sandbox](https://www.sandbox.game/en/)
 - [Cryptovoxels](https://cryptovoxels.com)
 
-## Galleries virtuelles
+### Galleries virtuelles
 
 - [Cyber](https://cyber.xyz/)
+- [Spatial](https://spatial.io)
 - [Rarerooms](https://www.rarerooms.io/)
 - [Somnium Space](https://somniumspace.com/)
 - [Shoyu](https://www.shoyunft.com/metaverse)
@@ -318,6 +319,7 @@ Il y a différentes marketplaces proposant de NFT sous Avalanche comme :
 Le développement de Cardano a commencé en 2015 puis est sorti en 2017 par Charles Hoskinson, co-fondateur de Ethereum. Hoskinson est parti du projet Ethereum car il voulait intégrer de l'investissement capital-risque et un projet à but spéculatif. Il choisit de développer Cardano suite à son départ, Cardano fait référence à Gerolamo Cardano un mathématicien italien. Les NFT sur Cardano peuvent être acheté sur des plateformes comme :
 
 - [CNFT.io](https://cnft.io)
+- [jpg.store](https://www.jpg.store/)
 
 ## Wallets
 
