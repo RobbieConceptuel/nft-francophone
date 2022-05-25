@@ -15,7 +15,7 @@ Bienvenue dans le repository NFT Francophone ! Ici vous trouverez tout ce qu'il 
   - [Applications](#applications)
   - [Apprendre la blockchain](#ressources-pour-apprendre)
 
-- [Ethereum](#ethereum), [Tezos](#tezos), [Solana](#solana), [Cardano](#cardano), [BSC](#bsc) , [Polygon](#polygon) , [Avalanche](#avalanche) , [Fantom](#fantom) [Bitcoin](#bitcoin)
+- [Ethereum](#ethereum), [Tezos](#tezos), [Solana](#solana), [Cardano](#cardano), [BSC](#bsc) , [Polygon](#polygon) , [Avalanche](#avalanche) , [Fantom](#fantom), [Bitcoin](#bitcoin)
   
 - [Vidéos](#vidéos)
 
