@@ -2,7 +2,7 @@
 
 Bienvenue dans le repository NFT Francophone ! Ici vous trouverez tout ce qu'il vous faut pour en apprendre plus sur les NFT (Non Fungible Token).
 
- <img src="https://github.com/RobbieConceptuel/NFT-Francophone/blob/main/NFT-Francophone.png" width="160">
+ <img src="https://github.com/RobbieConceptuel/NFT-Francophone/blob/main/NFT-Francophone.png" width="160" alt="Logo de NFT Francophone , la première ressource NFT en Français sur Internet.">
 
 ## Index
 
@@ -26,7 +26,7 @@ Pour comprendre mieux la naissance des NFT, reprenons dès le début. ARTE a pro
 Documentaire ARTE | La création du Bitcoin :
 
 <a href="https://www.youtube.com/embed/0ETcLj5jBy4">
-  <img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/ARTE-la-creation-du-bitcoin.jpeg" width="300">
+  <img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/ARTE-la-creation-du-bitcoin.jpeg" width="300" alt="Image de prévisualisation du documentaire ARTE sur la création du Bitcoin.">
 </a>
 
 [**ARTE | La création du Bitcoin**](https://www.youtube.com/embed/0ETcLj5jBy4)
@@ -46,6 +46,8 @@ Quand on arrive dans le monde des NFT, nous découvrons plusieurs blockchains su
 - Solana
 - Tezos
 - Cardano
+- BSC
+- Fantom
 - Bitcoin
 
 ## NFT
@@ -64,7 +66,7 @@ Voici une liste de différents wallets permettant d'utiliser les NFT :
 
 Voici une liste de différentes Marketplaces populaires permettant de créer, d'acheter, de vendre et de transférer les NFT :
 
-- [Opensea (ETH, Polygon)](https://opensea.io/)
+- [Opensea (ETH, Polygon, SOL)](https://opensea.io/)
 - [Rarible (ETH, TEZ)](https://rarible.com/)
 - [Artblocks (ETH)](https://artblocks.io/)
 - [Foundation (ETH)](https://foundation.app/)
@@ -77,10 +79,18 @@ Voici une liste de différentes Marketplaces populaires permettant de créer, d'
 - [Knownorigin (ETH)](https://knownorigin.io/)
 - [Exchange.art (SOL)](https://exchange.art/)
 - [Super Rare (ETH)](https://superrare.com/)
+- [element market (ETH, Polygon, AVAX)](https://element.market)
+- [NFTrade (AVAX, Polygon, ETH](https://nftrade.com)
+- [Tofu NFT (ETH, AVAX, Polygon, Fantom](https://tofunft.com)
+- [CNFT.io (ADA)](https://cnft.io)
+- [jpg.store (ADA)](https://www.jpg.store/)
+- [Binance (BSC)](https://binance.com)
+- [Air NFTs (Fantom)](https://airnfts.com)
+- [artion (Fantom)](https://artion.io)
 
 # Ressources
 
-Voici une liste exhaustive de différentes ressources sur les NFT :
+Voici une liste de différentes ressources sur les NFT :
 
 - [Bible du NFT](https://blog.opensea.io/guides/non-fungible-tokens/)
 
@@ -133,6 +143,11 @@ Commençons par :
 
 Lien : [Cyber.xyz](https://cyber.xyz/)
 
+### Decentraland
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Decentraland_Logo.svg" width="80" alt="Logo de Decentraland">
+
+
 ### Réseau social
 
 - [Showtime](https://showtime.io/)
@@ -170,6 +185,16 @@ Tous deux vous permettent d'utiliser de l'argent virtuel sans banque ni prestata
 
 Cela signifie également qu'Ethereum permet plus que des paiements. Il s'agit d'un marché de services financiers, de jeux et d'applications qui ne peuvent pas vous pister ou vous censurer.
 
+### Token Standards (normes de jetons)
+
+Voici quelques-unes des normes de jetons les plus populaires sur Ethereum :
+
+- **ERC-20** - Une interface type pour les jetons fongibles (interchangeables) comme les jetons de vote, les jetons d'enjeu ou les monnaies virtuelles.
+- **ERC-721** - Une interface type pour les jetons non fongibles, comme ceux requis pour les œuvres d'art ou une chanson.
+- **ERC-777** - Permet aux personnes de créer des fonctionnalités supplémentaires en sus des jetons tels qu'un contrat mixte pour améliorer la confidentialité  des transactions ou une fonction de récupération d'urgence pour vous tirer d'embarras si vous perdez vos clés privées.
+- **ERC-1155** - Permet des transactions et des regroupements de transactions plus efficaces – réduisant ainsi les coûts. Ce type de jeton permet de créer à la fois des jetons utilitaires (comme $BNB ou $BAT) et des jetons non fongibles comme des CryptoPunks.
+
+
 
 ## Wallets
 
@@ -186,7 +211,7 @@ Les Cryptopunks sont un des exemples les plus précurseurs d'un "Non-Fungible To
 
 **Crypto Punk #5822**
 
-<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/CryptoPunk_5822.png" width="280" alt="Logo de Ethereum">
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/CryptoPunk_5822.png" width="280" alt="Image du CryptoPunk #5822">
 
 Le 12 Février 2022 le #5822 a été vendu à pour 8'000 ETH .
 
@@ -196,13 +221,13 @@ Les CryptoKitties sont un jeu sur la blockchain Ethereum développé par le stud
 
 **Genesis**
 
-<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/CryptoKitties_Genesis.png" width="280" alt="Logo de Ethereum">
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/CryptoKitties_Genesis.png" width="280" alt="Image du premier CryptoKitty">
 
 Le tout premier Crypto Kitties.
 
 **Dragon**
 
-<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/CryptoKitties_Dragon.png" width="280" alt="Logo de Ethereum">
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/CryptoKitties_Dragon.png" width="280" alt="Image du CryptoKitty Dragon">
 
 Le 4 Septembre 2018 , Dragon a été vendu à pour 600 ETH .
 
@@ -212,33 +237,29 @@ Michael Joseph Winkelmann plus connu sous le nom de Beeple, est un artiste digit
 
 ### EVERYDAYS: THE FIRST 5000 DAYS
 
-<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/EVERYDAYS_THE%20FIRST_5000_DAYS_Beeple.jpeg" width="70%" alt="Logo de Ethereum">
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/EVERYDAYS_THE%20FIRST_5000_DAYS_Beeple.jpeg" width="70%" alt="Composition des 5000 premières oeuvres des EVERYDAYS par Beeple.">
 
 ### HUMAN ONE
 
-<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/HUMAN_ONE_Beeple.jpeg" width="280px" alt="Logo de Ethereum">
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/HUMAN_ONE_Beeple.jpeg" width="280px" alt="Image de l'oeuvre Human One par Beeple.">
 
 ## Bored Ape Yacht Club
 
-<img src="https://ik.imagekit.io/bayc/assets/bayc-footer.png" width="180" alt="Logo de Ethereum">
+<img src="https://ik.imagekit.io/bayc/assets/bayc-footer.png" width="180" alt="Logo de Bored Ape Yacht Club de Yuga Labs">
 
 Le 23 Avril 2021 le projet Bored Ape Yacht Club est sorti au prix de 0.08 ETH.
 
 **BAYC #2087**
 
-<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/BAYC_2087.png" width="280" alt="Logo de Ethereum">
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/BAYC_2087.png" width="280" alt="Image du Bored Ape Yacht Club #2087">
 
 Le 30 Septembre 2021 le #2087 a été vendu à pour 769 ETH .
 
 **Apecoin**
 
-<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Apecoin_Icon.png" width="80" alt="Logo de Tezos">
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Apecoin_Icon.png" width="80" alt="Logo de ApeCoin">
 
 Le 17 Mars 2022 est sorti le [ApeCoin](https://apecoin.com) .
-
-## Decentraland
-
-<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Decentraland_Logo.svg" width="80" alt="Logo de Tezos">
 
 # Tezos
 
@@ -367,7 +388,7 @@ Voir tous les Rare Pepe : [Rare Pepe Directory](http://rarepepedirectory.com/)
 
 *13 Septembre, 2016*
 
-<img src="http://rarepepedirectory.com/wp-content/uploads/2016/09/CreatorFinal.jpg" width="220" alt="Logo de Bitcoin">
+<img src="http://rarepepedirectory.com/wp-content/uploads/2016/09/CreatorFinal.jpg" width="220" alt="Image du premier RAREPEPE sur Bitcoin, historiquement le début des RAREPEPE.">
 
 *The first rare pepe ever attached to the Bitcoin blockchain.  The rare pepe that started it all.*
 
@@ -381,7 +402,7 @@ Le 10 Septembre 2021 une unité de ce RAREPEPE a été vendu à Sotheby's pour 2
 
 *4 Octobre, 2016*
 
-<img src="http://rarepepedirectory.com/wp-content/uploads/2016/10/PEPENOPOULOS.jpg" width="220" alt="Logo de Bitcoin">
+<img src="http://rarepepedirectory.com/wp-content/uploads/2016/10/PEPENOPOULOS.jpg" width="220" alt="Image du NFT PEPENOPOULOS.">
 
 *Andreas M. Pepenopoulos*
 
