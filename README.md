@@ -128,7 +128,7 @@ Commençons par :
 <img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Cyber_3D_2.jpeg" width="70%">
 
 - Signez la demande de signature dans votre wallet
-- Choisissez parmis les espaces gratuits pour commencer avec une gallerie
+- Choisissez parmis les espaces gratuits pour commencer avec une gallerie (Cyber Loft pour cet exemple)
 
 <img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Cyber_3D_3.jpeg" width="70%">
 
@@ -140,6 +140,30 @@ Commençons par :
 - Vous pouvez maintenant choisir vos NFT et les disposer dans votre nouvelle gallerie virtuelle.
 
 <img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Cyber_3D_5.jpeg" width="70%">
+
+[OnCyber](https://oncyber.io) supporte aussi les NFT 3D de format .glb ( nous pouvons publier les NFT de type .glb sur Opensea par exemple ) .
+
+- Sélectionnez le NFT 3D
+- Sur la gauche vous pouvez ajuster l'objet
+  - Scale -> Agrandir
+  - Position -> Déplacer
+  - Rotate -> Rotation de l'objet
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Cyber_3D_6.jpeg" width="70%">
+
+- Choisissez les paramètres à modifier et ajustez
+- Déplacez/Tournez le modèle grace aux axes au milieu de l'objet
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Cyber_3D_6.jpeg" width="70%">
+
+- Sous 'Reflection' vous pouvez choisir l'image qui servira à refléter la lumière de votre objet
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Cyber_3D_7.jpeg" width="70%">
+
+- Dans cet exemple j'ai choisi la Reflection 'Village' et j'ai disposé le NFT 3D contre le mur
+- Profitez de votre nouvel espace / gallerie virtuelle ! 🌸
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Cyber_3D_8.jpeg" width="70%">
 
 Lien : [Cyber.xyz](https://cyber.xyz/)
 
