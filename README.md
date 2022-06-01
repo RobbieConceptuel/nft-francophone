@@ -66,17 +66,43 @@ Voici une liste de différents wallets permettant d'utiliser les NFT :
 
 ## Tutoriel Comment créer un wallet Metamask
 
-<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Créer_Wallet_Metamask_1.jpeg" width="70%">
+Nous allons apprendre ensemble à créer un portefeuille [Metamask](https://metamask.io). Ce portefeuille nous permet de collecter des NFT et de les stocker et de faire des transactions sur le réseau Ethereum ainsi que d'autres tokens Ethereum comme Polygon, Avalanche, etc, ... À la fin de ce tutoriel, vous aurez un portefeuille crypto vous permettant de vous lancer dans le NFT.
 
-<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Créer_Wallet_Metamask_2.jpeg" width="100%">
+Commençons par :
 
-<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Créer_Wallet_Metamask_3.jpeg" width="70%">
+- Ouvrir le site: [Metamask](https://metamask.io)
+- Cliquez sur Installer
 
-<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Créer_Wallet_Metamask_4.jpeg" width="70%">
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Creer_Wallet_Metamask_1.jpeg" width="70%">
 
-<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Créer_Wallet_Metamask_5.jpeg" width="70%">
+- Ajoutez l'extension sur votre navigateur / l'app sur votre smartphone
 
-<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Créer_Wallet_Metamask_6.jpeg" width="70%">
+*Dans cet exemple nous l'installons sur desktop*
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Creer_Wallet_Metamask_2.jpeg" width="100%">
+
+- Cliquez sur 'Oui, passons à la configuration' pour créer un nouveau wallet
+- Inscrivez le mot de passe de votre choix pour protéger l'accès à Metamask (ce mot de passe est uniquement pour protéger l'accès au Wallet sur l'app/navigateur )
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Creer_Wallet_Metamask_3.jpeg" width="70%">
+
+- Cette étape est très importante : lisez bien tout les éléments sur la page
+- Regardez la vidéo pour stocker au mieux votre Seed Phrase
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Creer_Wallet_Metamask_4.jpeg" width="70%">
+
+- Lisez bien la page, cette phrase vous sera uniquement donnée à la création de votre portefeuille (wallet)
+- Cliquez sur 'Cliquez ici pour révéler votre Seed Phrase'
+- Prenez note de votre Seed Phrase de manière sécurisée
+- Une fois notée, cliquez sur 'Suivant'
+- Remettez les mots en ordre pour confirmer la prise en note de la Seed Phrase
+- 'Suivant'
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Creer_Wallet_Metamask_5.jpeg" width="70%">
+
+Vous avez créé votre portefeuille sur Metamask! Vous pouvez maintenant vous connecter sur toutes les Applications compatibles avec les technologies Blockchain ( exemples sous : [Applications](#applications) ).
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Creer_Wallet_Metamask_6.jpeg" width="70%">
 
 # Marketplaces
 
