@@ -54,6 +54,8 @@ Quand on arrive dans le monde des NFT, nous découvrons plusieurs blockchains su
 
 # Wallets
 
+Les portefeuilles donnent accès à vos fonds et vous permettent de vous connecter à une application Web3. Seul vous devriez avoir accès à votre portefeuille.
+
 Voici une liste de différents wallets permettant d'utiliser les NFT :
 
 - [Metamask (ETH)](https://metamask.io/)
@@ -61,6 +63,20 @@ Voici une liste de différents wallets permettant d'utiliser les NFT :
 - [Phantom Wallet (SOL)](https://phantom.app/)
 - [Nami Wallet (ADA)](https://namiwallet.io/)
 - [Rainbow Wallet (ETH)](https://rainbow.me/)
+
+## Tutoriel Comment créer un wallet Metamask
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Créer_Wallet_Metamask_1.jpeg" width="70%">
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Créer_Wallet_Metamask_2.jpeg" width="100%">
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Créer_Wallet_Metamask_3.jpeg" width="70%">
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Créer_Wallet_Metamask_4.jpeg" width="70%">
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Créer_Wallet_Metamask_5.jpeg" width="70%">
+
+<img src="https://github.com/RobbieConceptuel/nft-francophone/blob/main/images/Tutoriel_Créer_Wallet_Metamask_6.jpeg" width="70%">
 
 # Marketplaces
 
@@ -80,7 +96,7 @@ Voici une liste de différentes Marketplaces populaires permettant de créer, d'
 - [Exchange.art (SOL)](https://exchange.art/)
 - [Super Rare (ETH)](https://superrare.com/)
 - [element market (ETH, Polygon, AVAX)](https://element.market)
-- [NFTrade (AVAX, Polygon, ETH](https://nftrade.com)
+- [NFTrade (AVAX, Polygon, ETH)](https://nftrade.com)
 - [Tofu NFT (ETH, AVAX, Polygon, Fantom)](https://tofunft.com)
 - [CNFT.io (ADA)](https://cnft.io)
 - [jpg.store (ADA)](https://www.jpg.store/)
