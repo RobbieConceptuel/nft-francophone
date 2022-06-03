@@ -220,10 +220,14 @@ Lien : [Cyber.xyz](https://cyber.xyz/)
 
 ## Ressources pour apprendre
 
-- [Glossaire Ethereum](https://ethereum.org/fr/glossary/)
+Voici quelques ressources pour apprendre à développer sur la blockchain.
+
 - [ethereum.org](https://ethereum.org/fr/developers/)
+- [Glossaire Ethereum](https://ethereum.org/fr/glossary/)
 - [Solidity](https://soliditylang.org/)
 - [CryptoZombies](https://cryptozombies.io/)
+- [Learn Figment](https://learn.figment.io/)
+- [NFT School](https://nftschool.dev/)
 
 ### Liens utiles
 
