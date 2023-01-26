@@ -500,4 +500,4 @@ En savoir plus:
 - [*Nouveau Contributeur *](mettez votre lien ici)
 - [Robbie Conceptuel](https://instagram.com/conceptuel)
 
-*créé avec :sparkling_heart: par Robbie Conceptuel - 2022*
+*powered by [Conceptuel](https://conceptuel.ch) - 2023*
