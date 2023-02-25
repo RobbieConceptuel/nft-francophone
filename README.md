@@ -45,6 +45,7 @@ Quand on arrive dans le monde des NFT, nous découvrons plusieurs blockchains su
   - Avalanche
 - Solana
 - Tezos
+- Aptos
 - Cardano
 - BSC
 - Fantom
