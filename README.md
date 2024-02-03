@@ -501,4 +501,4 @@ En savoir plus:
 - [*Nouveau Contributeur *](mettez votre lien ici)
 - [Robbie Conceptuel](https://instagram.com/conceptuel)
 
-*powered by [Conceptuel](https://conceptuel.ch) - 2023*
+*powered by [Conceptuel](https://conceptuel.ch) - 2024*
