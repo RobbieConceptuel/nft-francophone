@@ -1,6 +1,5 @@
 # NFT Francophone
-
-Bienvenue dans le repository NFT Francophone ! Ici vous trouverez tout ce qu'il vous faut pour en apprendre plus sur les NFT (Non Fungible Token).
+Bienvenue sur le repository NFT Francophone ! Vous y trouverez toutes les ressources nécessaires pour approfondir vos connaissances sur les NFT (Non-Fungible Tokens).
 
  <img src="https://github.com/RobbieConceptuel/NFT-Francophone/blob/main/NFT-Francophone.png" width="160" alt="Logo de NFT Francophone , la première ressource NFT en Français sur Internet.">
 
@@ -21,7 +20,7 @@ Bienvenue dans le repository NFT Francophone ! Ici vous trouverez tout ce qu'il 
 
 # Historique
 
-Pour comprendre mieux la naissance des NFT, reprenons dès le début. ARTE a produit un documentaire sur la naissance du Bitcoin ce qui permet d'avoir une base historique sur l'histoire des cryptomonnaies.
+Pour mieux comprendre la naissance des NFT, il est essentiel de remonter à leurs racines. ARTE a produit un documentaire fascinant sur l'émergence du Bitcoin, offrant ainsi une base historique solide pour appréhender l'évolution des cryptomonnaies et, par extension, celle des NFT.
 
 Documentaire ARTE | La création du Bitcoin :
 
@@ -32,32 +31,35 @@ Documentaire ARTE | La création du Bitcoin :
 [**ARTE | La création du Bitcoin**](https://www.youtube.com/embed/0ETcLj5jBy4)
 
 
-## Qu'est-ce qu'un NFT?
+## Qu'est-ce qu'un NFT ?
 
-Un NFT est un Non Fungible Token.
+Un NFT (Non-Fungible Token) est un type de token unique, qui ne peut pas être échangé contre un autre de valeur identique, contrairement aux cryptomonnaies comme le Bitcoin ou l'Ethereum. Chaque NFT possède des caractéristiques distinctes et sert souvent à représenter des objets numériques tels que des œuvres d'art, des musiques, des vidéos ou même des objets de jeux vidéo. Leur valeur réside dans leur unicité et leur authenticité, certifiées par la technologie blockchain.
 
-# Blockchains
+# Les Blockchains et les NFT
 
-Quand on arrive dans le monde des NFT, nous découvrons plusieurs blockchains supportant la technologie NFT. Voici une liste exhaustive des Blockchains les plus populaires.
+L'univers des NFT repose sur des blockchains spécifiques qui permettent de créer, de transférer et de stocker ces tokens. Voici une liste des blockchains les plus populaires qui supportent la technologie NFT :
 
-- Ethereum
-  - Polygon
-  - Avalanche
-- Solana
-- Tezos
-- Aptos
-- Cardano
-- BSC
-- Fantom
-- Bitcoin
+- **Ethereum**  
+  - **Polygon**  
+  - **Avalanche**
+- **Solana**
+- **Tezos**
+- **Aptos**
+- **Cardano**
+- **Binance Smart Chain (BSC)**
+- **Fantom**
+- **Bitcoin**
+
+Ces blockchains offrent des fonctionnalités variées, mais elles ont toutes en commun la capacité de faciliter les transactions et les échanges de NFTs de manière sécurisée et transparente.
+
 
 ## NFT
 
-# Wallets
+# Portefeuilles (Wallets)
 
-Les portefeuilles donnent accès à vos fonds et vous permettent de vous connecter à une application Web3. Seul vous devriez avoir accès à votre portefeuille.
+Les portefeuilles numériques sont essentiels pour accéder à vos fonds et interagir avec des applications Web3. Il est crucial que vous soyez le seul à avoir accès à votre portefeuille, car il contient vos actifs numériques, y compris vos NFTs.
 
-Voici une liste de différents wallets permettant d'utiliser les NFT :
+Voici une sélection de portefeuilles populaires pour gérer et utiliser des NFTs :
 
 - [Metamask (ETH)](https://metamask.io/)
 - [Temple Wallet (TEZ)](https://templewallet.com/)
@@ -107,7 +109,7 @@ Vous avez créé votre portefeuille sur Metamask! Vous pouvez maintenant vous co
 
 # Marketplaces
 
-Voici une liste de différentes Marketplaces populaires permettant de créer, d'acheter, de vendre et de transférer les NFT :
+Découvrez ci-dessous une sélection des marketplaces les plus populaires où vous pouvez créer, acheter, vendre et transférer des NFTs :
 
 - [Opensea (ETH, Polygon, SOL)](https://opensea.io/)
 - [Rarible (ETH, TEZ)](https://rarible.com/)
@@ -493,12 +495,5 @@ En savoir plus:
 - [Crypto Punks](https://www.larvalabs.com/cryptopunks)
 - [Solana Docs](https://docs.solana.com/history)
 
-## Contributeurs
 
-*N'oubliez pas de vous ajouter en contributeur ici quand vous faîtes un Pull Request*
-
-- [*Nouveau Contributeur *](mettez votre lien ici)
-- [*Nouveau Contributeur *](mettez votre lien ici)
-- [Robbie Conceptuel](https://instagram.com/conceptuel)
-
-*powered by [Conceptuel](https://conceptuel.ch) - 2024*
+*powered by [Conceptuel](https://conceptuel.ch) and Robbie Conceptuel- 2024*
